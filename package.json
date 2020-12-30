@@ -1,0 +1,24 @@
+{
+  "name": "gsea",
+  "version": "0.0.1",
+  "description": "Desktop application for Gene Set Enrichment Analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwatME/gsea.git"
+  },
+  "author": "Kwat Medetgul-Ernar",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/KwatME/gsea/issues"
+  },
+  "homepage": "https://github.com/KwatME/gsea#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "prettier": "^2.2.1"
+  }
+}
